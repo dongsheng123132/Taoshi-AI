@@ -1,0 +1,7 @@
+{
+  "name": "Taoshi AI: Your Visual Product Scout",
+  "description": "Inspired by Taobao (淘 'to find' + 宝 'treasure'), Taoshi (淘 'to find' + 视 'video') is an AI scout that finds product treasures in any video or image. It bridges the gap between seeing something you want and finding it online, with a future vision to connect global audiences with e-commerce platforms worldwide.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
